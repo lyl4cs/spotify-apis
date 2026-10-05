@@ -4,7 +4,7 @@ Guess the song from as little audio as possible.
 
 You hear 0.5 seconds of a track. Miss, and you get 2 seconds, then 8, then the full clip. Fewer seconds needed means a better round.
 
-**Play it:** [link to live site]
+**Play it:** [neeshdle.vercel.app](https://neeshdle.vercel.app)
 
 ## Why I made it
 
